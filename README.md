@@ -8,9 +8,9 @@ Project Type: 3D
 ## Changes
 
 * Project Settings
-** Player
+* * Player
 *** Company Name = Mr. Phil Games
 *** Show Unity Logo = Off
-** Editor
-*** Version Controle = Visible Meta Files
-*** Asset Serialization = Force Text
+# # Editor
+# # # Version Controle = Visible Meta Files
+* * * Asset Serialization = Force Text
